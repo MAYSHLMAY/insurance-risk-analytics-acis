@@ -76,7 +76,11 @@ From the Jupyter interface, open any of the notebooks inside the `scripts/` or `
 * Time-based trend analysis
 * Outlier detection and interpretation
 
----
+
+![Numerical Columns](extracted_images/notebook/EDA/11_List_of_numerical_columns_0.png)
+![Categorical Columns](extracted_images/notebook/EDA/13_List_of_categorical_columns_excluding_identifiers_1.png)
+![Correlation Matrix](extracted_images/notebook/EDA/15_Compute_correlation_matrix_2.png)
+
 
 ### 🧠 Feature Engineering
 
@@ -105,7 +109,10 @@ From the Jupyter interface, open any of the notebooks inside the `scripts/` or `
 * WoE binning of RFMS features
 * Information Value (IV) calculation to evaluate feature importance
 
----
+**Visualization Example:**
+
+![RFMS Default Estimator](extracted_images/notebook/Default_Estimator_and_WOE_Binning/3_1__Constructing_a_Default_Estimator_using_RFMS_for_0.png)
+*RFMS-based default estimator feature visualization*
 
 ### 🤖 Model Training
 
@@ -120,7 +127,9 @@ From the Jupyter interface, open any of the notebooks inside the `scripts/` or `
 * Cross-validation to prevent overfitting
 * Model evaluation using Accuracy, Precision, Recall, F1-score, and ROC-AUC
 
----
+
+![ROC Curve](extracted_images/notebook/model_training/12_Plot_ROC_Curve_for_all_three_models_1.png)
+![RiskLabel Transformation](extracted_images/notebook/model_training/2_Fit_and_transform_the_RiskLabel_column_0.png)
 
 ## Project Structure
 
